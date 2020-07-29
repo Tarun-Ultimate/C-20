@@ -1,2 +1,2 @@
-# C-20
-Today we learned about algorithims.We created our own algorithim.
+# p5.play-boilerplate
+Boiler plate for p5.play
